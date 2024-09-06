@@ -1,6 +1,6 @@
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
-<H3> Laakshit D </H3>
-<H3>Register No.212222230071</H3>
+<H3>Name: Laakshit D </H3>
+<H3>Register No.:212222230071</H3>
 <H3> Experiment 1</H3>
 <H3>DATE:03-09-2024</H3>
 
